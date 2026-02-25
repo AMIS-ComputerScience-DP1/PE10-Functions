@@ -20,7 +20,7 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Run Functions Tests
+    - name: Run IB DP CS Subprogram Tests
       id: test
       run: python PE10exercises.py
 
