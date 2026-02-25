@@ -1,4 +1,4 @@
-#PExercises 10 Python Assignment: Creating and Using Functions
+# PExercises 10 Python Assignment: Creating and Using Functions
 
 ## Objective
 In this assignment, we will practice creating **functions** in Python. 
